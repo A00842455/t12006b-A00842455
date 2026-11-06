@@ -39,3 +39,7 @@ Cada decisión importante debe incluir:
 ## Licencia
 
 El material original de este repositorio se publica bajo [CC0 1.0 Universal](LICENSE). Las herramientas, datasets y referencias externas conservan sus propias licencias; cada entrega debe documentarlas.
+
+
+
+prueba
